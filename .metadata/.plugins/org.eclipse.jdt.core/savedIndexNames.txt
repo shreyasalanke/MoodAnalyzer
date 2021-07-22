@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\HP\OneDrive\Desktop\MoodAnalysier\.metadata\.plugins\org.eclipse.jdt.core
+2608335923.index
+1050390298.index
+2213985441.index
+3798767956.index
+2645689821.index
+2179940508.index
+1321531814.index
+614366700.index
+2856648311.index
+2327249436.index
+2835328599.index
+4140928472.index
